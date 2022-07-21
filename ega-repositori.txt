@@ -2,5 +2,5 @@ EGA RESOLUSI
 - konsisten belajar ngoding
 - konsisten belajar AI
 - konsisten belajar figma
-- belajar javascript
 - belajar wordpress
+- membuat website user dan admin
